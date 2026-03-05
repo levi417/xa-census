@@ -7,7 +7,7 @@
 
 ## Business Statement
 
-Chi Alpha Campus Ministries conducts an annual census of its ~364 U.S. campus chapters. Today that process is a manual spreadsheet exchange: campus leaders fill out a 60-column Excel file, email it in, and a national administrator compiles responses. Analysis is slow, peer comparison is nearly impossible, and leaders get no feedback from the data they submit.
+Chi Alpha Campus Ministries conducts an annual census of its U.S. campus chapters (238 submitted in 2024–25). Today that process is a manual spreadsheet exchange: campus leaders fill out a 60-column Excel file, email it in, and a national administrator compiles responses. Analysis is slow, peer comparison is nearly impossible, and leaders get no feedback from the data they submit.
 
 **XA Census replaces this workflow with a purpose-built web platform** — a structured form for campus leaders, real-time visibility for regional directors, and an analytics layer that turns raw survey data into actionable ministry intelligence.
 
@@ -15,7 +15,7 @@ Chi Alpha Campus Ministries conducts an annual census of its ~364 U.S. campus ch
 
 ## Product Vision
 
-*Every Chi Alpha campus leader submits their annual census in a guided, section-by-section form. Regional directors see their campuses' progress in real time. National administrators can query 364 campuses' worth of data in plain English — and every leader gets back a benchmark showing how their campus compares to peer schools.*
+*Every Chi Alpha campus leader submits their annual census in a guided, section-by-section form. Regional directors see their campuses' progress in real time. National administrators can query 238 campuses' worth of data (2024–25) in plain English — and every leader gets back a benchmark showing how their campus compares to peer schools.*
 
 ---
 
@@ -57,6 +57,7 @@ Chi Alpha Campus Ministries conducts an annual census of its ~364 U.S. campus ch
   - *"Which campuses in the Southeast have less than 50% SG leader retention?"*
   - *"Show me campuses where >20% of students are international but have no international SG leaders."*
   - *"Which 10 campuses have the highest SG leader replication rate?"*
+- 238 campuses in the 2024–25 dataset
 - Backed by an LLM that translates to filtered queries — no SQL required
 
 ### 4. Campus Benchmark Dashboard *(Phase 2)*
